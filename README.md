@@ -1,2 +1,2 @@
 # Guanabara
- Curso Guanabara Primeiro repositório
+Repositório criado durante a aula de Git e GitHub do Gustavo Guanabara.
